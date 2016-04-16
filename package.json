@@ -1,0 +1,13 @@
+{
+  "name": "guard",
+  "version": "1.0.0",
+  "main": "./js/src/guard",
+  "dependencies": {
+    "isDev": "aleclarson/isDev#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
